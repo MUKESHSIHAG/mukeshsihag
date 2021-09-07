@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 <h3 align="center">A boy from Earth</h3>
 
-- 🔭 I’m currently working on **my laptop**
+- 🔭 I’m currently working at **Eugenie.ai**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **Devops and Security**
 
 - 💬 Ask me about **where you feel doubt**
 
 - 📫 How to reach me **sihagmukesh22@gmail.com**
 
-- ⚡ Fun fact **I am also human being**
+- ⚡ True fact **I am very focused on my work S.U.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
